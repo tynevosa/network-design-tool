@@ -1,0 +1,18 @@
+.slot {
+  width: 380px;
+  height: 35px;
+}
+
+.slot-highlight {
+  border: 1px solid #2342ab;
+  border-style: dotted;
+  z-index: 1;
+}
+
+.slot-droppable {
+  background-color: blue;  
+}
+
+.slot-non-droppable {
+  background-color: blue;
+}
